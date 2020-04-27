@@ -1,0 +1,50 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/Users/rexhang/Desktop/001 Contra.nes",
+      "label": "001 Contra",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/005 Wario's Woods.nes",
+      "label": "005 Wario's Woods",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/119 Nekketsu Street Basket - Ganbare Dunk Heroes.nes",
+      "label": "119 Nekketsu Street Basket - Ganbare Dunk Heroes",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mesen_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/119 Nekketsu Street Basket - Ganbare Dunk Heroes.nes",
+      "label": "119 Nekketsu Street Basket - Ganbare Dunk Heroes",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/001 Contra.nes",
+      "label": "001 Contra",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    }
+  ]
+}

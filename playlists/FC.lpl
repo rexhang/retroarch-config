@@ -1,0 +1,1562 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/Users/rexhang/Desktop/001 Contra.nes",
+      "label": "001 Contra",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/002 Super Contra.nes",
+      "label": "002 Super Contra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/003 Contra Force.nes",
+      "label": "003 Contra Force",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/004 Mighty Final Fight.nes",
+      "label": "004 Mighty Final Fight",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/005 Wario's Woods.nes",
+      "label": "005 Wario's Woods",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/006 Mitsume Ga Tooru.nes",
+      "label": "006 Mitsume Ga Tooru",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/007 Captain America and The Avengers.nes",
+      "label": "007 Captain America and The Avengers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/008 Code Name - Viper.NES",
+      "label": "008 Code Name - Viper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/009 Galaga.nes",
+      "label": "009 Galaga",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/010 Kage.nes",
+      "label": "010 Kage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/011 Scat.nes",
+      "label": "011 Scat",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/012 Raf World.nes",
+      "label": "012 Raf World",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/013 Batman.nes",
+      "label": "013 Batman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/014 Batman 2.nes",
+      "label": "014 Batman 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/015 Double Dragon.nes",
+      "label": "015 Double Dragon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/016 Double Dragon 2.nes",
+      "label": "016 Double Dragon 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/017 Double Dragon 3.nes",
+      "label": "017 Double Dragon 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/018 Monster In My Pocket.nes",
+      "label": "018 Monster In My Pocket",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/019 Yuu Yuu Hakusho - Dark Tournament.nes",
+      "label": "019 Yuu Yuu Hakusho - Dark Tournament",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/020 Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai.nes",
+      "label": "020 Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/021 Kickmast.NES",
+      "label": "021 Kickmast",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/022 Tetris.nes",
+      "label": "022 Tetris",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/023 Kage No Densetsu.nes",
+      "label": "023 Kage No Densetsu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/024 Battletoads.nes",
+      "label": "024 Battletoads",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/025 Ninja Ryuukenden.nes",
+      "label": "025 Ninja Ryuukenden",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/026 Ninja Ryuukenden 2.nes",
+      "label": "026 Ninja Ryuukenden 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/027 Ninja Ryuukenden 3.nes",
+      "label": "027 Ninja Ryuukenden 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/028 Ninja Crusaders.nes",
+      "label": "028 Ninja Crusaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/029 Cattou Ninden Teyandee.nes",
+      "label": "029 Cattou Ninden Teyandee",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/030 Castle1.nes",
+      "label": "030 Castle1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/031 Castle2.nes",
+      "label": "031 Castle2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/032 Castle3.nes",
+      "label": "032 Castle3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/033 Akumajou Dracula.nes",
+      "label": "033 Akumajou Dracula",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/034 Gekikame Ninja Den.NES",
+      "label": "034 Gekikame Ninja Den",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/035 Teenage Mutant Ninja Turtles 2.nes",
+      "label": "035 Teenage Mutant Ninja Turtles 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/036 Teenage Mutant Ninja Turtles 3.nes",
+      "label": "036 Teenage Mutant Ninja Turtles 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/037 Teenage Mutant Ninja Turtles.nes",
+      "label": "037 Teenage Mutant Ninja Turtles",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/038 Pooyan.nes",
+      "label": "038 Pooyan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/039 Bomber Man 2.nes",
+      "label": "039 Bomber Man 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/040 Chip To Dale No Daisakusen.nes",
+      "label": "040 Chip To Dale No Daisakusen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/041 Chip To Dale No Daisakusen 2.nes",
+      "label": "041 Chip To Dale No Daisakusen 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/042 Tom and Jerry.nes",
+      "label": "042 Tom and Jerry",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/043 Moon Crystal.nes",
+      "label": "043 Moon Crystal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/044 Lode Runner.nes",
+      "label": "044 Lode Runner",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/045 Hi No Tori - Houou Hen.nes",
+      "label": "045 Hi No Tori - Houou Hen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/046 Vice Project Doom.nes",
+      "label": "046 Vice Project Doom",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/047 Bomber King.nes",
+      "label": "047 Bomber King",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/048 Metal Gear.NES",
+      "label": "048 Metal Gear",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/049 Metal Gear 2.NES",
+      "label": "049 Metal Gear 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/050 Tokkyuu Shirei - Solbrain.nes",
+      "label": "050 Tokkyuu Shirei - Solbrain",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/051 Elevator Action.nes",
+      "label": "051 Elevator Action",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/052 GIJOE.NES",
+      "label": "052 GIJOE",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/053 GIJOE 2.NES",
+      "label": "053 GIJOE 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/054 Battle City.nes",
+      "label": "054 Battle City",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/055 Rushnatk.nes",
+      "label": "055 Rushnatk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/056 Power Blade.nes",
+      "label": "056 Power Blade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/057 Power Blade 2.nes",
+      "label": "057 Power Blade 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/058 Sidepo.nes",
+      "label": "058 Sidepo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/059 Kinnikuman - Muscle Tag Match.nes",
+      "label": "059 Kinnikuman - Muscle Tag Match",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/060 Street Fighter 2010.nes",
+      "label": "060 Street Fighter 2010",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/061 Rockman.nes",
+      "label": "061 Rockman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/062 Rockman 2.nes",
+      "label": "062 Rockman 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/063 Rockman 3.nes",
+      "label": "063 Rockman 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/064 Rockman 4.nes",
+      "label": "064 Rockman 4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/065 Rockman 5.nes",
+      "label": "065 Rockman 5",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/066 Rockman 6.nes",
+      "label": "066 Rockman 6",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/067 Bananan Ouji No Daibouken.nes",
+      "label": "067 Bananan Ouji No Daibouken",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/068 Wai Wai World.nes",
+      "label": "068 Wai Wai World",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/069 Wai Wai World 2.nes",
+      "label": "069 Wai Wai World 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/070 Argos no Senshi.nes",
+      "label": "070 Argos no Senshi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/071 Hitler No Fukkatsu - Top Secret.nes",
+      "label": "071 Hitler No Fukkatsu - Top Secret",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/072 Mad City.nes",
+      "label": "072 Mad City",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/073 Super Spy Hunter.nes",
+      "label": "073 Super Spy Hunter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/074 Pow.NES",
+      "label": "074 Pow",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/075 Cross Fire.nes",
+      "label": "075 Cross Fire",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/076 Goonies.NES",
+      "label": "076 Goonies",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/077 Goonies 2.NES",
+      "label": "077 Goonies 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/078 Guardic Gaiden.nes",
+      "label": "078 Guardic Gaiden",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/079 Seirei Densetsu Lickle.nes",
+      "label": "079 Seirei Densetsu Lickle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/080 Ikari 3.nes",
+      "label": "080 Ikari 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/081 Saiyuuki World.nes",
+      "label": "081 Saiyuuki World",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/082 Saiyuuki World 2.nes",
+      "label": "082 Saiyuuki World 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/083 Takahashi Meijin No Boukenjima.nes",
+      "label": "083 Takahashi Meijin No Boukenjima",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/084 Takahashi Meijin No Boukenjima 2.nes",
+      "label": "084 Takahashi Meijin No Boukenjima 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/085 Takahashi Meijin No Boukenjima 3.nes",
+      "label": "085 Takahashi Meijin No Boukenjima 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/086 Takahashi Meijin No Boukenjima 4.nes",
+      "label": "086 Takahashi Meijin No Boukenjima 4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/087 Super Mario Bros.nes",
+      "label": "087 Super Mario Bros",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/088 Super Mario Bros 2.NES",
+      "label": "088 Super Mario Bros 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/089 Super Mario Bros 3.nes",
+      "label": "089 Super Mario Bros 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/090 Mario Bros.nes",
+      "label": "090 Mario Bros",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/091 Dr Mario.nes",
+      "label": "091 Dr Mario",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/092 Kung Fu.nes",
+      "label": "092 Kung Fu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/093 Spartan X 2.nes",
+      "label": "093 Spartan X 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/094 Twinbee.nes",
+      "label": "094 Twinbee",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/095 Twinbee 2.nes",
+      "label": "095 Twinbee 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/096 Twinbee 3.nes",
+      "label": "096 Twinbee 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/097 Sky Destroyer.nes",
+      "label": "097 Sky Destroyer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/098 Super Pinball.nes",
+      "label": "098 Super Pinball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/099 Highway Star.nes",
+      "label": "099 Highway Star",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/100 Yie Ar Kung-Fu.nes",
+      "label": "100 Yie Ar Kung-Fu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/101 Alien Syndrome.nes",
+      "label": "101 Alien Syndrome",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/102 Gevara.nes",
+      "label": "102 Gevara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/103 Rocketeer.NES",
+      "label": "103 Rocketeer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/104 Road Fighter.nes",
+      "label": "104 Road Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/105 Gun Smoke.nes",
+      "label": "105 Gun Smoke",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/106 Kamen No Ninja - Hanamaru.nes",
+      "label": "106 Kamen No Ninja - Hanamaru",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/107 Jackal.NES",
+      "label": "107 Jackal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/108 Dragon Ball Z - Kyoushuu Saiya Jin.nes",
+      "label": "108 Dragon Ball Z - Kyoushuu Saiya Jin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/109 Dragon Ball Z 2 - Gekishin Freeza.nes",
+      "label": "109 Dragon Ball Z 2 - Gekishin Freeza",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/110 Dragon Ball Z 3 - Ressen Jinzou Ningen.nes",
+      "label": "110 Dragon Ball Z 3 - Ressen Jinzou Ningen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/111 Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku.nes",
+      "label": "111 Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/112 Ike Ike Nekketsu Hockey Bu - Subette Koronde Dairantou.nes",
+      "label": "112 Ike Ike Nekketsu Hockey Bu - Subette Koronde Dairantou",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/113 Kunio Kun No Jidaigekidayo Zenin Shuugou.nes",
+      "label": "113 Kunio Kun No Jidaigekidayo Zenin Shuugou",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/114 Nekketsu Koukou - Dodgeball Bu.nes",
+      "label": "114 Nekketsu Koukou - Dodgeball Bu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/115 Kunio Kun No Nekketsu Soccer League.nes",
+      "label": "115 Kunio Kun No Nekketsu Soccer League",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/116 Kunio Kun No Nekketsu Soccer League 2.nes",
+      "label": "116 Kunio Kun No Nekketsu Soccer League 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/117 Nekketsu Kakutou Densetsu.nes",
+      "label": "117 Nekketsu Kakutou Densetsu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/118 Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai.nes",
+      "label": "118 Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/119 Nekketsu Street Basket - Ganbare Dunk Heroes.nes",
+      "label": "119 Nekketsu Street Basket - Ganbare Dunk Heroes",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mesen_libretro.dylib",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/120 Crashboy.nes",
+      "label": "120 Crashboy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/121 Downtown - Nekketsu Monogatari.nes",
+      "label": "121 Downtown - Nekketsu Monogatari",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/122 Nekketsu Kouha - Kunio Ku.nes",
+      "label": "122 Nekketsu Kouha - Kunio Ku",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/123 Family Tennis.NES",
+      "label": "123 Family Tennis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/124 Gomoku Narabe.nes",
+      "label": "124 Gomoku Narabe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/125 Gradius.nes",
+      "label": "125 Gradius",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/126 007.nes",
+      "label": "126 007",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/127 Robocop.nes",
+      "label": "127 Robocop",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/128 Robocop 2.nes",
+      "label": "128 Robocop 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/129 Robocop 3.nes",
+      "label": "129 Robocop 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/130 Excite Bike.nes",
+      "label": "130 Excite Bike",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/131 Hoshi No Kirby - Yume No Izumi No Monogatari.nes",
+      "label": "131 Hoshi No Kirby - Yume No Izumi No Monogatari",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/132 1942.nes",
+      "label": "132 1942",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/133 1943.nes",
+      "label": "133 1943",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/134 Crisis Force.nes",
+      "label": "134 Crisis Force",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/135 B-Wings.nes",
+      "label": "135 B-Wings",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/136 Donkey Kong 3.nes",
+      "label": "136 Donkey Kong 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/137 Sicko Charlie.nes",
+      "label": "137 Sicko Charlie",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/138 Urban Champion.nes",
+      "label": "138 Urban Champion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/139 Snake Rattle n Roll.nes",
+      "label": "139 Snake Rattle n Roll",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/140 Maajan.nes",
+      "label": "140 Maajan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/141 Summer Carnival 92.nes",
+      "label": "141 Summer Carnival 92",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/142 Lupin Sansei - Pandora No Isan.nes",
+      "label": "142 Lupin Sansei - Pandora No Isan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/143 Kaiketsu Yanchamaru 3.nes",
+      "label": "143 Kaiketsu Yanchamaru 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/144 Ice Climber.nes",
+      "label": "144 Ice Climber",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/145 Silk Worm.nes",
+      "label": "145 Silk Worm",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/146 Pac-Man.nes",
+      "label": "146 Pac-Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/147 Shinjinrui - The New Type.nes",
+      "label": "147 Shinjinrui - The New Type",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/148 Antarctic Adventure.nes",
+      "label": "148 Antarctic Adventure",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/149 Mappy.nes",
+      "label": "149 Mappy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/150 Max Warrior - Wakusei Kaigenrei.nes",
+      "label": "150 Max Warrior - Wakusei Kaigenrei",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/151 Saint Seiya - Ougon Densetsu.nes",
+      "label": "151 Saint Seiya - Ougon Densetsu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/152 Captain Tsubasa Vol 2 - Super Striker.NES",
+      "label": "152 Captain Tsubasa Vol 2 - Super Striker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/153 Getsufuu Maden.nes",
+      "label": "153 Getsufuu Maden",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/154 Choujin Sentai - Jetman.nes",
+      "label": "154 Choujin Sentai - Jetman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/155 Spell Gems.nes",
+      "label": "155 Spell Gems",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/156 Dragon Quest 3.nes",
+      "label": "156 Dragon Quest 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/157 Metal Max.nes",
+      "label": "157 Metal Max",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/158 Lagrange Point.nes",
+      "label": "158 Lagrange Point",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/159 Sangokushi 2 - Hanou No Tairiku.nes",
+      "label": "159 Sangokushi 2 - Hanou No Tairiku",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/160 Destiny of an Emperor 2.nes",
+      "label": "160 Destiny of an Emperor 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/161 Battle Kid.nes",
+      "label": "161 Battle Kid",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/162 Battle Kid 2.nes",
+      "label": "162 Battle Kid 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/163 Dmnswrd.nes",
+      "label": "163 Dmnswrd",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/164 Jackie Chan.nes",
+      "label": "164 Jackie Chan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/165 Dragon Fighter.nes",
+      "label": "165 Dragon Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/166 Cabal.nes",
+      "label": "166 Cabal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/167 Fire Emblem..nes",
+      "label": "167 Fire Emblem.",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/168 Fire Emblem Gaiden.nes",
+      "label": "168 Fire Emblem Gaiden",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/169 robocco war.nes",
+      "label": "169 robocco war",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/170 Zen.nes",
+      "label": "170 Zen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/171 Aladdin.nes",
+      "label": "171 Aladdin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/172 Blade Buster.nes",
+      "label": "172 Blade Buster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/173 Darkwing Duck.NES",
+      "label": "173 Darkwing Duck",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/174 Mr Gimmick.nes",
+      "label": "174 Mr Gimmick",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/175 Street Fighter II.nes",
+      "label": "175 Street Fighter II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/176 Nemo - Pajama Hero.nes",
+      "label": "176 Nemo - Pajama Hero",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/177 Indivisible.nes",
+      "label": "177 Indivisible",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/178 Totally Rad.nes",
+      "label": "178 Totally Rad",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/179 Dondokodon 2.nes",
+      "label": "179 Dondokodon 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/180 Tiny Toon Adventures.nes",
+      "label": "180 Tiny Toon Adventures",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/181 Ultraman Kurabu.nes",
+      "label": "181 Ultraman Kurabu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/182 Little Mermaid - Ou Hime.nes",
+      "label": "182 Little Mermaid - Ou Hime",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/183 Yume Penguin Monogatari.nes",
+      "label": "183 Yume Penguin Monogatari",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/184 Donkey Kong.nes",
+      "label": "184 Donkey Kong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/185 Donkey Kong 2.nes",
+      "label": "185 Donkey Kong 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/186 Daiku No Gen San.nes",
+      "label": "186 Daiku No Gen San",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/187 Daiku No Gen San 2 - Akage No Dan No Gyakushuu.nes",
+      "label": "187 Daiku No Gen San 2 - Akage No Dan No Gyakushuu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/188 Balloon Fight.nes",
+      "label": "188 Balloon Fight",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/189 Ganbare Goemon - Karakuri Douchuu.nes",
+      "label": "189 Ganbare Goemon - Karakuri Douchuu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/190 Ganbare Goemon 2.nes",
+      "label": "190 Ganbare Goemon 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/191 The Flintstones 2.nes",
+      "label": "191 The Flintstones 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/192 Kirakira Star Night DX.nes",
+      "label": "192 Kirakira Star Night DX",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/193 Datach Dragon Ball Z - Gekitou Tenkaichi Budou Kai.nes",
+      "label": "193 Datach Dragon Ball Z - Gekitou Tenkaichi Budou Kai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/194 Gradius AC DELTA 0.8A.nes",
+      "label": "194 Gradius AC DELTA 0.8A",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    }
+  ]
+}
