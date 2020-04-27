@@ -6,4 +6,4 @@
 
 #### please replace(/rexhang/g, "your username")
 
-### Thumbnail reference to the following git address[点我](https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS)
+### Thumbnail reference to the following git address: [点我](https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS)
