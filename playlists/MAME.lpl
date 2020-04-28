@@ -1,0 +1,1258 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Robo Army/roboarma.zip#032-epr.p1",
+      "label": "032-epr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/1945k III/1945kiii.zip",
+      "label": "1945kiii",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/64th. Street/64street.zip",
+      "label": "64th. Street",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2000_libretro.dylib",
+      "core_name": "Arcade (MAME 2000)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Aero Fighters/aerofgt.zip",
+      "label": "aerofgt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Airgallet/agallet.zip",
+      "label": "agallet",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Air Duel/airduel.zip",
+      "label": "airduel",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Aliens/aliens.zip",
+      "label": "aliens",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Arbalester/arbalest.zip",
+      "label": "arbalest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Armed Formation/armedf.zip",
+      "label": "armedf",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Asterix/asterix.zip",
+      "label": "asterix",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Bad Dudes vs. Dragonninja/baddudes.zip",
+      "label": "baddudes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Bakuretsu Breaker/bakubrkr.zip",
+      "label": "bakubrkr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Armed Police Batrider/batriderhk.zip",
+      "label": "batriderhk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Batsugun/batsugun.zip",
+      "label": "batsugun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Battle Bakraid/bbakraid.zip",
+      "label": "bbakraid",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Battle Garegga/bgaregga.zip",
+      "label": "bgaregga",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Bishi Bashi Championship Mini Game Senshuken/bishi.zip",
+      "label": "bishi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Blood Bros/bloodbro.zip",
+      "label": "bloodbro",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Bells and Whistles/blswhstl.zip",
+      "label": "blswhstl",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Blade Master/bmaster.zip",
+      "label": "bmaster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Bonze Adventure/bonzeadv.zip",
+      "label": "bonzeadv",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Brute Force/brutforc.zip",
+      "label": "brutforc",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Back Street Soccer/bssoccer.zip",
+      "label": "bssoccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Battletoads/btoads.zip",
+      "label": "btoads",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Change Air Blade/cairblad.zip",
+      "label": "cairblad",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Captain America and the Avengers/captaven.zip",
+      "label": "captaven",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Crude Buster/cbuster.zip",
+      "label": "cbuster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Charlie Ninja/charlien.zip",
+      "label": "charlien",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/China Gate/chinagat.zip",
+      "label": "chinagat",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Chuka Taisen/chukatai.zip",
+      "label": "chukatai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Caveman Ninja/cninja.zip",
+      "label": "cninja",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Contra/Contra.zip",
+      "label": "Contra",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Cosmic Cop/cosmccop.zip",
+      "label": "cosmccop",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Crime City/crimec.zip",
+      "label": "crimec",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Crime Fighters/crimfght.zip",
+      "label": "crimfght",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/The Combatribes/ctribe.zip",
+      "label": "ctribe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Cybattler/cybattlr.zip",
+      "label": "cybattlr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Darius Gaiden/dariusg.zip",
+      "label": "dariusg",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Dragon Ball Z 2 - Super Battle/dbz2.zip",
+      "label": "dbz2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/DoDonPachi/ddonpach.zip",
+      "label": "ddonpach",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/DoDonPachi Dai-Ou-Jou/ddpdoj.zip",
+      "label": "ddpdoj",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Double Dragon/ddragon.zip",
+      "label": "ddragon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Double Dragon II/ddragon2.zip",
+      "label": "ddragon2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Double Dragon 3/ddragon3.zip",
+      "label": "ddragon3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Dead Connection/deadconx.zip",
+      "label": "deadconx",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Denjin Makai/denjinmk.zip",
+      "label": "denjinmk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Dimahoo/dimahoo.zip",
+      "label": "dimahoo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Dogyuun/dogyuun.zip",
+      "label": "dogyuun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mahjong Electron Base/mjelct3a.zip#dz-00.rom",
+      "label": "dz-00",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/The Cliffhanger/edrandy.zip",
+      "label": "edrandy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Elevator Action Returns/elvactr.zip",
+      "label": "elvactr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/ESP Ra.de. - A.D. 2018 Tokyo/esprade.zip",
+      "label": "esprade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Fantasia/fantasia.zip",
+      "label": "fantasia",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Fantasy '95/fantsy95.zip",
+      "label": "fantsy95",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Final Star Force/fstarfrc.zip",
+      "label": "fstarfrc",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Golden Axe - The Revenge of Death Adder/ga2j.zip",
+      "label": "ga2j",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gaia Crusaders/gaia.zip",
+      "label": "gaia",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Giga Wing/gigawing.zip",
+      "label": "gigawing",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/G.I. Joe - A Real American Hero/gijoe.zip",
+      "label": "gijoe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gokujyou Parodius/gokuparo.zip",
+      "label": "gokuparo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Golden Axe/goldnaxe.zip",
+      "label": "goldnaxe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gradius III/gradius3.zip",
+      "label": "gradius3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Guardians/grdians.zip",
+      "label": "grdians",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Growl/growl.zip",
+      "label": "growl",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Grid Seeker/gseeker.zip",
+      "label": "gseeker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gun Bird 1/gunbird.zip",
+      "label": "gunbird",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gun Bird 2/gunbird2.zip",
+      "label": "gunbird2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gundhara - Juudan Arashi/gundhara.zip",
+      "label": "gundhara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gun Force II/gunforc2.zip",
+      "label": "gunforc2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gun Force/gunforce.zip",
+      "label": "gunforce",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gun Lock/gunlock.zip",
+      "label": "gunlock",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/GunNail/gunnail.zip",
+      "label": "gunnail",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Gun.Smoke/gunsmokeua.zip",
+      "label": "gunsmokeua",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Guwange/guwange.zip",
+      "label": "guwange",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Guevara/gwarj.zip",
+      "label": "gwarj",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Hammerin' Harry/HHARRY.ZIP",
+      "label": "HHARRY",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/hook/hook.zip",
+      "label": "hook",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/In the Hunt/inthunt.zip",
+      "label": "inthunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Jackal/jackal.zip",
+      "label": "jackal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/J.J. Squawkers/jjsquawk.zip",
+      "label": "jjsquawk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Kageki/kageki.zip",
+      "label": "kageki",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Karate Blazers/karatblz.zip",
+      "label": "karatblz",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Ken-Go/kengo.zip",
+      "label": "kengo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Knights of Valour/kovplus.zip",
+      "label": "kovplus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Knights of Valour/kovplus.bk.zip",
+      "label": "kovplus.bk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Kung-Fu Master/kungfum.zip",
+      "label": "kungfum",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Lightning Fighters/lgtnfght.zip",
+      "label": "lgtnfght",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/The Legend of Kage/lkage.zip",
+      "label": "lkage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mad Motor/madmotor.zip",
+      "label": "madmotor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Metal Black/metalb.zip",
+      "label": "metalb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Metamoqester/metmqstr.zip",
+      "label": "metmqstr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mahjong Electron Base/mjelctrb.zip",
+      "label": "mjelctrb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mahjong Electron Base/mjelctrn.zip",
+      "label": "mjelctrn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mug Smashers/mugsmash.zip",
+      "label": "mugsmash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mystic Warriors/mystwarr.zip",
+      "label": "mystwarr",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/NAM-1975/nam1975.zip",
+      "label": "nam1975",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Ninja Baseball BatMan/nbbatman.zip",
+      "label": "nbbatman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Nemesis/nemesis.zip",
+      "label": "nemesis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Robo Army/neogeo.zip",
+      "label": "neogeo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/New Fantasia/newfant.zip",
+      "label": "newfant",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Nitro Ball/nitrobal.zip",
+      "label": "nitrobal",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Ninja Spirit/nspirit.zip",
+      "label": "nspirit",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Oriental Legend/orlegend.zip",
+      "label": "orlegend",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/OSman/osman.zip",
+      "label": "osman",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Out Zone/outzone.zip",
+      "label": "outzone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Knights of Valour/pgm.zip",
+      "label": "pgm",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Oriental Legend/pgm.zip",
+      "label": "pgm",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Power Instinct Legends/plegends.zip",
+      "label": "plegends",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Prisoners of War/pow.zip",
+      "label": "pow",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Prehistoric Isle/Prehisle.zip",
+      "label": "Prehisle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Power Instinct 2/pwrinst2.zip",
+      "label": "pwrinst2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Quiz Channel Question/quizchql.zip",
+      "label": "quizchql",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Raiden/raiden.zip",
+      "label": "raiden",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Rollergames/rollerg.zip",
+      "label": "rollerg",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/R-Shark/rshark.zip",
+      "label": "rshark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/R Type Leo/rtypeleo.zip",
+      "label": "rtypeleo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Strikers 1945/s1945.zip",
+      "label": "s1945",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Strikers 1945 II/s1945ii.zip",
+      "label": "s1945ii",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Strikers 1945 III/s1945iii.zip",
+      "label": "s1945iii",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Pretty Soldier Sailormoon/sailormn.zip",
+      "label": "sailormn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Super Contra/Scontra.zip",
+      "label": "Scontra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Mahjong Electron Base/mjelct3.zip#se-3010",
+      "label": "se-3010",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Shadow Force/shadfrce.zip",
+      "label": "shadfrce",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Shippuu Mahou Daisakusen/shippumd.zip",
+      "label": "shippumd",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Silent Dragon/silentd.zip",
+      "label": "silentd",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/The Legend of Silkroad/silkroad.zip",
+      "label": "silkroad",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Silkworm/silkworm.zip",
+      "label": "silkworm",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Silver Millennium/silvmil.zip",
+      "label": "silvmil",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Sengoku Ace/sngkace.zip",
+      "label": "sngkace",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Snow Brothers/snowbros.zip",
+      "label": "snowbros",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Sunset Riders/ssriders.zip",
+      "label": "ssriders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Storm Blade/stmblade.zip",
+      "label": "stmblade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Street Smart/streetsm.zip",
+      "label": "streetsm",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Thunder Dragon 2/tdragon2.zip",
+      "label": "tdragon2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Thunder Dragon/tdragonb.zip",
+      "label": "tdragonb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Tengai - Sengoku Ace Episode II/tengai.zip",
+      "label": "tengai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Teenage Mutant Ninja Turtles/TMNT.ZIP",
+      "label": "TMNT",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Teenage Mutant Ninja Turtles II/tmnt2.zip",
+      "label": "tmnt2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Tokushu Butai U.A.G/tndrcade.zip",
+      "label": "tndrcade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Tumble Pop/tumblep.zip",
+      "label": "tumblep",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Turbo Force/turbofrc.zip",
+      "label": "turbofrc",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Turbo Force/turbofrcu.zip",
+      "label": "turbofrcu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Undercover Cops/uccops.zip",
+      "label": "uccops",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Puzzle Uo Poko/uopoko.zip",
+      "label": "uopoko",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Vapor Trail - Hyper Offence Formation/vaportra.zip",
+      "label": "vaportra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Vasara/vasara.zip",
+      "label": "vasara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Crime Fighters 2/vendetta.zip",
+      "label": "vendetta",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Vendetta/vendetta.zip",
+      "label": "vendetta",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/V-Five/vfive.zip",
+      "label": "vfive",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Vigilante/vigilant.zip",
+      "label": "vigilant",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Violent Storm/viostorm.zip",
+      "label": "viostorm",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Vulcan Venture/vulcan.zip",
+      "label": "vulcan",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/X-Men/xmen.zip",
+      "label": "X-Men",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Xexex/xexex.zip",
+      "label": "xexex",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/X-Multiply/xmultipl.zip",
+      "label": "xmultipl",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Yie Ar Kung-Fu/yiear.zip",
+      "label": "yiear",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    }
+  ]
+}

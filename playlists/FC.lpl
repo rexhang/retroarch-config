@@ -17,8 +17,8 @@
     {
       "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/002 Super Contra.nes",
       "label": "002 Super Contra",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
       "crc32": "00000000|crc",
       "db_name": "FC.lpl"
     },
@@ -33,8 +33,8 @@
     {
       "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/004 Mighty Final Fight.nes",
       "label": "004 Mighty Final Fight",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
       "crc32": "00000000|crc",
       "db_name": "FC.lpl"
     },

@@ -7,6 +7,22 @@
   "left_thumbnail_mode": 0,
   "items": [
     {
+      "path": "/Users/rexhang/Desktop/RetroArch备份资料/roms/NeoGeo/kof/kof2001.zip",
+      "label": "kof2001",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fbneo_libretro.dylib",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Desktop/RetroArch备份资料/roms/NeoGeo/kof/kof2001.zip",
+      "label": "kof2001",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame_libretro.dylib",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
       "path": "/Users/rexhang/Desktop/001 Contra.nes",
       "label": "001 Contra",
       "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
@@ -15,12 +31,68 @@
       "db_name": "FC.lpl"
     },
     {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Contra/Contra.zip",
+      "label": "Contra",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/X-Men/xmen.zip",
+      "label": "X-Men",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/OSman/osman.zip",
+      "label": "osman",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
       "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/005 Wario's Woods.nes",
       "label": "005 Wario's Woods",
       "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
       "core_name": "Nintendo - NES / Famicom (FCEUmm)",
       "crc32": "00000000|crc",
       "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/004 Mighty Final Fight.nes",
+      "label": "004 Mighty Final Fight",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/002 Super Contra.nes",
+      "label": "002 Super Contra",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/fceumm_libretro.dylib",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "00000000|crc",
+      "db_name": "FC.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Vulcan Venture/vulcan.zip",
+      "label": "vulcan",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/MAME/Armed Formation/armedf.zip",
+      "label": "armedf",
+      "core_path": "/Applications/RetroArch.app/Contents/Resources/cores/mame2003_plus_libretro.dylib",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
     },
     {
       "path": "/Users/rexhang/Library/Application Support/RetroArch/roms/FC/119 Nekketsu Street Basket - Ganbare Dunk Heroes.nes",
